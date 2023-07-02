@@ -58,3 +58,5 @@ On Insomnia, the following API routes have been created and used to add, update,
 - Delete a reaction by the `reactionId`: `DEL /api/thoughts/:thoughtId/reactions/:reactionId`
 
 [![Walkthrough Video](https://img.youtube.com/vi/YqyOhSHBa5w/0.jpg)](https://www.youtube.com/watch?v=YqyOhSHBa5w)
+
+Click [here](https://www.youtube.com/watch?v=YqyOhSHBa5w) to watch the video.
