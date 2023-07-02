@@ -1,0 +1,22 @@
+{
+  "name": "social-network-api",
+  "version": "1.0.0",
+  "description": "build an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mfonseca100/Social-Network-API"
+  },
+  "author": "Marissa Fonseca",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.27.0",
+    "mongoose": "^5.9.23",
+    "nodemon": "^2.0.4"
+  }
+}
